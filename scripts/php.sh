@@ -33,7 +33,6 @@ else
 
     sudo add-apt-repository -y ppa:ondrej/php
 
-    sudo apt-key update
     sudo apt-get update
 
     # Install PHP
